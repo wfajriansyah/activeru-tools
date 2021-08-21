@@ -1,3 +1,7 @@
+# Require
+- Node v11++ & NPM
+- MongoDB
+
 # Usage
 Type ```node listener-sms.js``` and ```node index.js``` ( 2 terminals, you can use ```screen``` for multi terminals )
 
